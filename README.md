@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about deep learning(object tracking) , C++, Java and my projects on hwh199601@qq.com.
 - ⚡ Fun fact: this is a less funny  boy.
 
-![roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanghui-Huang&show_icons=true&theme=default)
+![roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanghui-huang&show_icons=true&theme=default)
