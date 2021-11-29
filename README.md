@@ -19,6 +19,6 @@ Here are some ideas to get you started:
       What's more, I will officially join [Tencent](https://cloud.tencent.com/) next year.
 - 📫 If you want know me more : [www.hwh.zone](https://www.hwh.zone), this is my personal blog.
 - 💬 Ask me about deep learning(object tracking) , C++, Java and my projects on hwh199601@qq.com.
-- ⚡ Fun fact: this is a less funny  boy.
+- ⚡ Fun fact: this is a less funny  man.
 
 ![roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanghui-huang&show_icons=true&theme=default)
